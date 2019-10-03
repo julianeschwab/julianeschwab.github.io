@@ -19,14 +19,14 @@ locale                   : "en-US"
 title                    : "Juliane Schwab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
+name                     : "Juliane Schwab"
 description              : ""
 url                      : "https://julianeschwab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "julianeschwab/julianeschwab.github.io"
 teaser                   : #"/images/JulianeSchwab_portrait.jpg"
 logo                     : #"/images/JulianeSchwab_portrait.jpg"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -109,16 +109,8 @@ analytics:
 author:
   name             : "Juliane Schwab"
   avatar           : "/images/JulianeSchwab_portrait.jpg"
-  bio              : "PhD Candidate 
-
-                    RTG Computational Cognition 
-
-                    Workgroup Psycho- and Neurolinguistics 
-                     
-                     Institute of Cognitive Science 
-
-                    Osnabrück University"
-  location         : "Osnabrück University"
+  bio              : "PhD Candidate <br> ..RTG Computational Cognition Workgroup Psycho- and Neurolinguistics Institute of Cognitive Science Osnabrück University"
+  location         : #""
   email            : #"jschwab@uos.de
   links:
     - label: "Email"
