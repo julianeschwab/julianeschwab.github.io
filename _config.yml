@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Juliane Schwab"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/JulianeSchwab_portrait.jpg"
   bio              : ""
   location         : "Somewhere"
   email            :
