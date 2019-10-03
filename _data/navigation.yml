@@ -4,6 +4,8 @@ main:
     url: https://julianeschwab.github.io/
   - title: "CV"
     url: /cv/
+  - title: "PDF"
+    url: /pdf/Jschwab_CV.pdf
   - title: "Talks and posters"
     url: /conferences/
   - title: "Teaching"
