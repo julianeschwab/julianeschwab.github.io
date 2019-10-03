@@ -111,11 +111,11 @@ author:
   avatar           : "/images/JulianeSchwab_portrait.jpg"
   bio              : "PhD Candidate <br>RTG Computational Cognition<br>Psycho- and Neurolinguistics<br>Institute of Cognitive Science <br>Osnabrück University <br> Room 50/104"
   location         : #""
-  email            : "jschwab@uos.de"
+  email            : #"jschwab@uos.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:jschwab@uos.de"
+      url: "mailto:jschwab@uos.de"
     - label: "ResearchGate"
       icon: "fab fa-researchgate"
       url: "https://researchgate.net/"
