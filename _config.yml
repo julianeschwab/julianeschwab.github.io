@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Juliane Schwab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Juliane Schwab"
+name                     : ""
 description              : ""
 url                      : "https://julianeschwab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
