@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Juliane Schwab"
   avatar           : "/images/JulianeSchwab_portrait.jpg"
-  bio              : ""
-  location         : "Somewhere"
-  email            :
+  bio              : "PhD Candidate"
+  location         : "Osnabrück"
+  email            : "jschwab@uos.de
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
