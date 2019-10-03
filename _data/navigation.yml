@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: https://julianeschwab.github.io/
   - title: "CV"
-    url: https://julianeschwab.github.io/cv/
+    url: /cv/
   - title: "Talks and posters"
-    url: https://julianeschwab.github.io/conferences/
+    url: /conferences/
   - title: "Teaching"
-    url: /year-archive/
+    url: /teaching/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
