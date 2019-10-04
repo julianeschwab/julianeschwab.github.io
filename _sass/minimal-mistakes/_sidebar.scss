@@ -113,6 +113,15 @@
 /*
    Author profile and links
    ========================================================================== */
+   /* Disables the drag event 
+(mostly used for images) */
+.disabledrag{
+   -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+   user-drag: none;
+}
 
 .author__avatar {
   display: table-cell;
