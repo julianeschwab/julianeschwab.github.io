@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Juliane Schwab"
-  avatar           : "2020_jschwab_portrait.jpg" #"/images/JulianeSchwab_portrait.jpg"
+  avatar           : "/images/2020_jschwab_portrait.jpg" #"/images/JulianeSchwab_portrait.jpg"
   bio              : "PhD Candidate <br>RTG Computational Cognition<br>Psycho- and Neurolinguistics<br>Institute of Cognitive Science <br>Osnabrück University <br> Room 50/104"
   location         : #""
   email            : #"jschwab@uos.de"
