@@ -135,8 +135,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Youtube"
-      icon: "Hello! We're talking about language."
+    - label: "Hello! We're talking about language."
+      icon: ""
       url: "https://youtu.be/NM8McyQCRYs?t=431"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
