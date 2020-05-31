@@ -8,6 +8,8 @@ main:
     url: /conferences/
   - title: "Teaching"
     url: /teaching/
+  - title: "Publications"
+    url: /publications/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
