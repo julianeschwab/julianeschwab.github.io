@@ -2,14 +2,15 @@
 main:
   - title: "About"
     url: https://julianeschwab.github.io/
-  - title: "CV"
-    url: /pdf/JSchwab_CV.pdf
-  - title: "Talks and posters"
+   - title: "Talks and posters"
     url: /conferences/
+   - title: "Publications"
+    url: /publications/
   - title: "Teaching"
     url: /teaching/
-  - title: "Publications"
-    url: /publications/
+  - title: "CV"
+    url: /pdf/JSchwab_CV.pdf
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
