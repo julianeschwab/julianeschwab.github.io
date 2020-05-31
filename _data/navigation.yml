@@ -2,9 +2,9 @@
 main:
   - title: "About"
       url: https://julianeschwab.github.io/
-   - title: "Talks and posters"
+  - title: "Talks and posters"
       url: /conferences/
-   - title: "Publications"
+  - title: "Publications"
       url: /publications/
   - title: "Teaching"
       url: /teaching/
