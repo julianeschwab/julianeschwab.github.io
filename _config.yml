@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Juliane Schwab"
   avatar           : "/images/jschwab_portrait_2020.jpg" #"/images/JulianeSchwab_portrait.jpg"
-  bio              : "PhD Candidate <br>RTG Computational Cognition<br>Psycho- and Neurolinguistics<br>Institute of Cognitive Science <br>Osnabrück University <br> Room 50/104 <br> <br> and <br> <br>Department of English and American Studies<br>Humboldt University of Berlin <br> <br> Email: jschwab [at] uos.de"
+  bio              : "PhD Candidate <br>RTG Computational Cognition<br>Institute of Cognitive Science <br>Osnabrück University <br> <br> and <br> <br>Department of English and <br>American Studies<br>Humboldt University of Berlin <br> <br> Email: jschwab [at] uos.de"
   #bio              : "PhD Candidate <br>RTG Computational Cognition<br>Psycho- and Neurolinguistics<br>Institute of Cognitive Science <br>Osnabrück University <br> Room 50/104 <br> <br> Email: jschwab [at] uos.de"
   location         : #""
   email            : #"jschwab@uos.de"
