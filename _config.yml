@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Juliane Schwab"
-  avatar           : "/images/photo_2022-08-03_21-21-06.jpg" #"/images/jschwab_portrait_2020.jpg" #"/images/JulianeSchwab_portrait.jpg"
+  avatar           : "/images/jschwab_portrait_2020.jpg" #"/images/photo_2022-08-03_21-21-06.jpg" #"/images/jschwab_portrait_2020.jpg" #"/images/JulianeSchwab_portrait.jpg"
   bio              : "PhD Candidate <br> Department of English and <br>American Studies<br>Humboldt University of Berlin <br>Office: Unter den Linden 6, Room 2007<br> <br> Email: juliane.schwab [at] hu-berlin.de"
   location         : #""
   email            : #"jschwab@uos.de"
