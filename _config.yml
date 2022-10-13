@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "Juliane Schwab"
   avatar           : "/images/photo_2022-08-03_21-21-061.jpg" #"/images/jschwab_portrait_2020.jpg" #"/images/JulianeSchwab_portrait.jpg"
-  bio              : "PhD Candidate <br> Department of Linguistics<br>University of Tübingen <br>Office: Keplerstraße 2, Room 167<br> <br> Email: juliane.schwab [at] uos.de"
+  bio              : "PhD Candidate <br> Department of Linguistics<br>University of Tübingen <br>Office: Keplerstraße 2, Room 167<br> <br> Email: juliane.schwab [at] uni-tuebingen.de"
   location         : #""
   email            : #"jschwab@uos.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:jschwab@uni-osnabrueck.de"
+      #url: "mailto:juliane.schwab@uni-osnabrueck.de"
     - label: "ResearchGate"
       icon: "fab fa-researchgate"
       url: "https://researchgate.net/profile/Juliane-Schwab"
