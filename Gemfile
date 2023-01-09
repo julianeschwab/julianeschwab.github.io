@@ -1,2 +1,3 @@
 source "https://rubygems.org"
-gemspec
+gem 'jekyll', group: :jekyll_plugins
+gem 'jekyll-scholar', group: :jekyll_plugins
