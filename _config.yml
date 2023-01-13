@@ -127,7 +127,7 @@ author:
       url: "https://orcid.org/0000-0001-7899-5974"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/julianeschwab"
+      url: "https://github.com/julianeschwab"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
